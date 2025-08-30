@@ -1,34 +1,36 @@
 [
   {
     "id": 1,
-    "name": "Wireless Headphones",
-    "price": 99.99,
-    "description": "High-quality wireless headphones with noise cancellation",
-    "image": "http://localhost:3001/uploads/1756581622493-184589899.jpg",
+    "name": "Anillos Chicos",
+    "price": 5000,
+    "description": "Anillos de vidrio importado - pieza única",
+    "image": "http://localhost:3001/uploads/1756588975634-408767996.JPG",
     "category": "Anillos",
     "images": [
-      "http://localhost:3001/uploads/1756581622493-184589899.jpg",
-      "http://localhost:3001/uploads/1756581622498-276990909.png",
-      "http://localhost:3001/uploads/1756581622499-323924569.png",
-      "http://localhost:3001/uploads/1756581622506-330856131.png",
-      "http://localhost:3001/uploads/1756581622500-396594577.png"
+      "http://localhost:3001/uploads/1756588975634-408767996.JPG"
     ]
   },
   {
     "id": 2,
-    "name": "Smart Watch",
-    "price": 199.99,
-    "description": "Feature-rich smartwatch with health tracking",
-    "image": "http://localhost:3001/uploads/1756568337122-418820073.jpg",
-    "category": "Anillos"
+    "name": "Anillos grandes",
+    "price": 6500,
+    "description": "Anillos de vidrio importado - pieza única",
+    "image": "http://localhost:3001/uploads/1756589081416-569957423.JPG",
+    "category": "Anillos",
+    "images": [
+      "http://localhost:3001/uploads/1756589081416-569957423.JPG"
+    ]
   },
   {
     "id": 3,
-    "name": "Laptop Stand",
-    "price": 49.99,
-    "description": "Ergonomic aluminum laptop stand",
-    "image": "http://localhost:3001/uploads/1756568343903-79473765.jpg",
-    "category": "Collares"
+    "name": "Collar de vidrio importado",
+    "price": 9500,
+    "description": "Collares medianos de vidrio importado",
+    "image": "http://localhost:3001/uploads/1756589196602-78127478.JPG",
+    "category": "Collares",
+    "images": [
+      "http://localhost:3001/uploads/1756589196602-78127478.JPG"
+    ]
   },
   {
     "id": 4,
