@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 99.99,
+    "description": "High-quality wireless headphones with noise cancellation",
+    "image": "http://localhost:3001/uploads/1756581622493-184589899.jpg",
+    "category": "Anillos",
+    "images": [
+      "http://localhost:3001/uploads/1756581622493-184589899.jpg",
+      "http://localhost:3001/uploads/1756581622498-276990909.png",
+      "http://localhost:3001/uploads/1756581622499-323924569.png",
+      "http://localhost:3001/uploads/1756581622506-330856131.png",
+      "http://localhost:3001/uploads/1756581622500-396594577.png"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "price": 199.99,
+    "description": "Feature-rich smartwatch with health tracking",
+    "image": "http://localhost:3001/uploads/1756568337122-418820073.jpg",
+    "category": "Anillos"
+  },
+  {
+    "id": 3,
+    "name": "Laptop Stand",
+    "price": 49.99,
+    "description": "Ergonomic aluminum laptop stand",
+    "image": "http://localhost:3001/uploads/1756568343903-79473765.jpg",
+    "category": "Collares"
+  },
+  {
+    "id": 4,
+    "name": "Collar",
+    "price": 8000,
+    "description": "lindo collar",
+    "image": "http://localhost:3001/uploads/1756568232558-343531670.gif",
+    "category": "Collares"
+  }
+]
