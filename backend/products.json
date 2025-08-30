@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "name": "Anillos Chicos",
+    "price": 5000,
+    "description": "Anillos de vidrio importado - pieza única",
+    "image": "http://localhost:3001/uploads/1756588975634-408767996.JPG",
+    "category": "Anillos",
+    "images": [
+      "http://localhost:3001/uploads/1756588975634-408767996.JPG"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Anillos grandes",
+    "price": 6500,
+    "description": "Anillos de vidrio importado - pieza única",
+    "image": "http://localhost:3001/uploads/1756589081416-569957423.JPG",
+    "category": "Anillos",
+    "images": [
+      "http://localhost:3001/uploads/1756589081416-569957423.JPG"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Collar de vidrio importado",
+    "price": 9500,
+    "description": "Collares medianos de vidrio importado",
+    "image": "http://localhost:3001/uploads/1756589196602-78127478.JPG",
+    "category": "Collares",
+    "images": [
+      "http://localhost:3001/uploads/1756589196602-78127478.JPG"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Collar",
+    "price": 8000,
+    "description": "lindo collar",
+    "image": "http://localhost:3001/uploads/1756568232558-343531670.gif",
+    "category": "Collares"
+  }
+]
