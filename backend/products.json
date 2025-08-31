@@ -4,10 +4,10 @@
     "name": "Anillos Chicos",
     "price": 5000,
     "description": "Anillos de vidrio importado - pieza única",
-    "image": "http://localhost:3001/uploads/1756588975634-408767996.JPG",
+    "image": "http://localhost:3001/uploads/1756657221394-625370406.jpg",
     "category": "Anillos",
     "images": [
-      "http://localhost:3001/uploads/1756588975634-408767996.JPG"
+      "http://localhost:3001/uploads/1756657221394-625370406.jpg"
     ]
   },
   {
@@ -15,10 +15,10 @@
     "name": "Anillos grandes",
     "price": 6500,
     "description": "Anillos de vidrio importado - pieza única",
-    "image": "http://localhost:3001/uploads/1756589081416-569957423.JPG",
+    "image": "http://localhost:3001/uploads/1756657232385-528744234.jpg",
     "category": "Anillos",
     "images": [
-      "http://localhost:3001/uploads/1756589081416-569957423.JPG"
+      "http://localhost:3001/uploads/1756657232385-528744234.jpg"
     ]
   },
   {
@@ -26,10 +26,10 @@
     "name": "Collar de vidrio importado",
     "price": 9500,
     "description": "Collares medianos de vidrio importado",
-    "image": "http://localhost:3001/uploads/1756589196602-78127478.JPG",
+    "image": "http://localhost:3001/uploads/1756655290097-529116245.JPG",
     "category": "Collares",
     "images": [
-      "http://localhost:3001/uploads/1756589196602-78127478.JPG"
+      "http://localhost:3001/uploads/1756655290097-529116245.JPG"
     ]
   },
   {
@@ -37,7 +37,190 @@
     "name": "Collar",
     "price": 8000,
     "description": "lindo collar",
-    "image": "http://localhost:3001/uploads/1756568232558-343531670.gif",
-    "category": "Collares"
+    "image": "http://localhost:3001/uploads/1756658685901-82284033.jpg",
+    "category": "Collares",
+    "images": [
+      "http://localhost:3001/uploads/1756658685901-82284033.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "collar de micromosaico ",
+    "price": 22000,
+    "description": "Collares con calota metálica y micromosaico – pieza única",
+    "category": "Collares",
+    "images": [
+      "http://localhost:3001/uploads/1756654891451-544154005.JPG",
+      "http://localhost:3001/uploads/1756654934818-381823842.JPG"
+    ],
+    "image": "http://localhost:3001/uploads/1756654891451-544154005.JPG"
+  },
+  {
+    "id": 6,
+    "name": "aritos mini gema ",
+    "price": 3000,
+    "description": "Aritos mini gema (par) – pieza única,\ntamaño 1 cm, estilo botón, delicados y\nsutiles\n",
+    "category": "aritos",
+    "images": [
+      "http://localhost:3001/uploads/1756655206212-440658494.JPG"
+    ],
+    "image": "http://localhost:3001/uploads/1756655206212-440658494.JPG"
+  },
+  {
+    "id": 7,
+    "name": "Llaveros Argentina medianos",
+    "price": 5000,
+    "description": "Llaveros temáticos de Argentina – pieza única,\n, diseños representativos del\npaís.\n",
+    "category": "Llaveros",
+    "images": [
+      "http://localhost:3001/uploads/1756655720587-808825829.JPG"
+    ],
+    "image": "http://localhost:3001/uploads/1756655720587-808825829.JPG"
+  },
+  {
+    "id": 8,
+    "name": "portasaquitos de té",
+    "price": 3000,
+    "description": "Portasaquitos de té de vidrio\npintado – pieza única, tamaño 6\ncm, técnica pulverizada, artesanal.\n",
+    "category": "Hogar",
+    "images": [
+      "http://localhost:3001/uploads/1756655910075-359757415.JPG"
+    ],
+    "image": "http://localhost:3001/uploads/1756655910075-359757415.JPG"
+  },
+  {
+    "id": 9,
+    "name": "Combo Irupé premium ",
+    "price": 28000,
+    "description": "Collar micromosaico + arito + anillo",
+    "category": "Combos",
+    "images": [
+      "http://localhost:3001/uploads/1756656223531-280195851.JPG",
+      "http://localhost:3001/uploads/1756656248288-518074590.JPG"
+    ],
+    "image": "http://localhost:3001/uploads/1756656223531-280195851.JPG"
+  },
+  {
+    "id": 10,
+    "name": "combo margarita premium ",
+    "price": 18000,
+    "description": "Collar vidrio importado + arito + anillo",
+    "category": "Combos",
+    "images": [
+      "http://localhost:3001/uploads/1756656519024-44071600.JPG"
+    ],
+    "image": "http://localhost:3001/uploads/1756656519024-44071600.JPG"
+  },
+  {
+    "id": 11,
+    "name": "Combo Irupé simple",
+    "price": 24000,
+    "description": "Collar micromosaico + aritos",
+    "category": "Combos",
+    "images": [
+      "http://localhost:3001/uploads/1756658840110-906594687.jpg",
+      "http://localhost:3001/uploads/1756658849544-544971379.jpg"
+    ],
+    "image": "http://localhost:3001/uploads/1756658840110-906594687.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Combo Irupé",
+    "price": 25000,
+    "description": "Collar micromosaico + anillo",
+    "category": "Combos",
+    "images": [
+      "http://localhost:3001/uploads/1756659072535-192453266.jpg"
+    ],
+    "image": "http://localhost:3001/uploads/1756659072535-192453266.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Combo Margarita ",
+    "price": 15000,
+    "description": "Collar de vidrio importado + anillo",
+    "category": "Combos",
+    "images": [
+      "http://localhost:3001/uploads/1756659169464-680370491.jpg"
+    ],
+    "image": "http://localhost:3001/uploads/1756659169464-680370491.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Combo Jazmín",
+    "price": 16500,
+    "description": "Collar de vidrio pintado + anillo grande\n",
+    "category": "Combos",
+    "images": [
+      "http://localhost:3001/uploads/1756659352678-614357373.jpg"
+    ],
+    "image": "http://localhost:3001/uploads/1756659352678-614357373.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Combo Jazmín simple",
+    "price": 11000,
+    "description": "Collar de vidrio pintado + aritos\n",
+    "category": "Combos",
+    "images": [
+      "http://localhost:3001/uploads/1756659395527-883942621.jpg"
+    ],
+    "image": "http://localhost:3001/uploads/1756659395527-883942621.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Cactus maceta de cemento",
+    "price": 10500,
+    "description": "Cactus de vidrio pintado en maceta de cemento",
+    "category": "Decoración",
+    "images": [
+      "http://localhost:3001/uploads/1756659570080-375239189.jpg",
+      "http://localhost:3001/uploads/1756659582198-589971937.jpg"
+    ],
+    "image": "http://localhost:3001/uploads/1756659570080-375239189.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Bandejas de botella",
+    "price": 5500,
+    "description": "Bandejas de botella reciclada\npintada – pieza única, tamaño 30\ncm, objeto decorativo y funcional.\n",
+    "category": "Hogar",
+    "images": [
+      "http://localhost:3001/uploads/1756659742373-757070198.jpg"
+    ],
+    "image": "http://localhost:3001/uploads/1756659742373-757070198.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Señaladores de copa",
+    "price": 8000,
+    "description": "Señaladores de copas de vidrio\npintado – pieza única, medida 4×4\ncm, disponibles en packs de 6\n",
+    "category": "Hogar",
+    "images": [
+      "http://localhost:3001/uploads/1756660275919-882234179.jpg"
+    ],
+    "image": "http://localhost:3001/uploads/1756660275919-882234179.jpg"
+  },
+  {
+    "id": 19,
+    "name": "LLaveros simples",
+    "price": 4000,
+    "description": "Llaveros simples de vidrio pintado – pieza única,\ntamaño 3–3,5 cm, con dije decorativo.\n",
+    "category": "Llaveros",
+    "images": [
+      "http://localhost:3001/uploads/1756660570974-669533664.jpg"
+    ],
+    "image": "http://localhost:3001/uploads/1756660570974-669533664.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Combo Lavanda ",
+    "price": 7000,
+    "description": "Llavero con Bijou + Aritos colgantes",
+    "category": "Combos",
+    "images": [
+      "http://localhost:3001/uploads/1756661024854-991420317.jpg"
+    ],
+    "image": "http://localhost:3001/uploads/1756661024854-991420317.jpg"
   }
 ]

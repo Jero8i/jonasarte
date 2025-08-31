@@ -10,5 +10,21 @@
   {
     "id": 5,
     "name": "Combos"
+  },
+  {
+    "id": 6,
+    "name": "Aritos"
+  },
+  {
+    "id": 7,
+    "name": "Llaveros"
+  },
+  {
+    "id": 8,
+    "name": "Hogar"
+  },
+  {
+    "id": 9,
+    "name": "Decoración"
   }
 ]
