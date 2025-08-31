@@ -108,7 +108,7 @@ app.post('/api/upload', upload.single('image'), (req, res) => {
   if (!req.file) {
     return res.status(400).json({ error: 'No image file provided' });
   }
-  const imageUrl = `http://localhost:${PORT}/uploads/${req.file.filename}`;
+  const imageUrl = `http://jonasarteapi.holmesbooking.com/uploads/${req.file.filename}`;
   res.json({ imageUrl });
 });
 
