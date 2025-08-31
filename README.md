@@ -37,7 +37,7 @@ A modern, responsive product catalogue with admin functionality for CRUD operati
 
 3. **Access the application**:
    - Frontend: http://localhost:3000
-   - Backend API: http://localhost:3001
+   - Backend API: http://jonasarteapi.holmesbooking.com
 
 ## Project Structure
 

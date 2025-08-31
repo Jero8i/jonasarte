@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
 
-const API_URL = 'http://localhost:3001/api';
+const API_URL = 'http://jonasarteapi.holmesbooking.com/api';
 
 function App() {
   const [products, setProducts] = useState([]);

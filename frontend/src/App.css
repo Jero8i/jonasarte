@@ -400,6 +400,19 @@ body {
   animation: twinkle 2s ease-in-out infinite;
 }
 
+@media (max-width: 768px) {
+  .profile-intro h2::before {
+    left: -30px;
+    font-size: 1.2rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .profile-intro h2::before {
+    display: none;
+  }
+}
+
 @keyframes twinkle {
   0%, 100% { opacity: 0.5; transform: translateY(-50%) scale(1); }
   50% { opacity: 1; transform: translateY(-50%) scale(1.2); }
@@ -526,32 +539,90 @@ body {
 }
 
 @media (max-width: 768px) {
+  .profile-section {
+    padding: 2rem 1rem;
+  }
+  
   .profile-content {
     flex-direction: column;
     text-align: center;
     gap: 2rem;
+    max-width: 100%;
   }
   
   .profile-text {
     text-align: center;
+    width: 100%;
   }
   
   .profile-brand h1 {
-    font-size: 4rem;
+    font-size: 3rem;
+    letter-spacing: 2px;
+    line-height: 1;
   }
   
   .profile-brand .subtitle {
+    font-size: 1.5rem;
+  }
+  
+  .profile-intro h2 {
     font-size: 2rem;
   }
   
+  .profile-intro h3 {
+    font-size: 1.4rem;
+  }
+  
+  .profile-intro p {
+    font-size: 1rem;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+  }
+  
+  .profile-image {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  
   .profile-image img {
-    width: 300px;
-    height: 380px;
+    width: 280px;
+    height: 350px;
+    max-width: 90vw;
+  }
+  
+  .contact-info {
+    justify-content: center;
+    margin-top: 1.5rem;
+  }
+  
+  .contact-link {
+    width: 45px;
+    height: 45px;
+  }
+  
+  .admin-toggle {
+    width: 45px;
+    height: 45px;
+    font-size: 1rem;
+  }
+  
+  .edit-profile-btn {
+    width: 50px;
+    height: 50px;
+    font-size: 0.8rem;
   }
   
   .profile-section::before {
-    font-size: 5rem;
-    left: 40%;
+    font-size: 4rem;
+    left: 50%;
+    top: 20%;
+  }
+  
+  .profile-section::after {
+    font-size: 3rem;
+    right: 10%;
+    bottom: 20%;
   }
 }
 
@@ -1303,6 +1374,43 @@ form textarea {
   0%, 100% { transform: translateX(0); }
   25% { transform: translateX(-5px); }
   75% { transform: translateX(5px); }
+}
+
+@media (max-width: 480px) {
+  .profile-section {
+    padding: 1.5rem 0.5rem;
+  }
+  
+  .profile-brand h1 {
+    font-size: 2.5rem;
+    letter-spacing: 1px;
+  }
+  
+  .profile-brand .subtitle {
+    font-size: 1.2rem;
+  }
+  
+  .profile-intro h2 {
+    font-size: 1.8rem;
+  }
+  
+  .profile-intro h3 {
+    font-size: 1.2rem;
+  }
+  
+  .profile-intro p {
+    font-size: 0.9rem;
+  }
+  
+  .profile-image img {
+    width: 250px;
+    height: 300px;
+  }
+  
+  .contact-link {
+    width: 40px;
+    height: 40px;
+  }
 }
 
 @media (max-width: 768px) {
