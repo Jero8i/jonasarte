@@ -653,12 +653,10 @@ body {
 }
 
 .category-section:nth-child(odd) {
-  background: linear-gradient(135deg, rgba(255, 210, 63, 0.1), rgba(247, 147, 30, 0.05));
   border-radius: 20px;
 }
 
 .category-section:nth-child(even) {
-  background: linear-gradient(135deg, rgba(255, 107, 53, 0.1), rgba(214, 48, 49, 0.05));
   border-radius: 20px;
 }
 
@@ -895,13 +893,7 @@ body {
   border-color: #ffd23f;
 }
 
-.product-card:nth-child(even) {
-  background: linear-gradient(135deg, #fff9e6, #fff);
-}
 
-.product-card:nth-child(odd) {
-  background: linear-gradient(135deg, #fff, #ffe6e6);
-}
 
 .product-card img {
   width: 100%;
