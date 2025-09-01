@@ -680,14 +680,14 @@ body {
 }
 
 .category-title {
-  color: #ff6b35;
+  color: #d63031;
   font-size: 2rem;
   text-align: center;
   margin-bottom: 1.5rem;
   text-transform: uppercase;
   letter-spacing: 1px;
   font-weight: bold;
-  text-shadow: 1px 1px 3px rgba(0,0,0,0.1);
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
   font-family: 'Georgia', serif;
   position: relative;
 }
@@ -905,8 +905,9 @@ body {
 
 .product-card img {
   width: 100%;
-  height: auto;
-  object-fit: fill;
+  height: 250px;
+  object-fit: cover;
+  object-position: center;
 }
 
 .product-info {
@@ -1027,10 +1028,10 @@ body {
   transform: rotate(90deg);
 }
 
-.modal-content img {
+.image-carousel img {
   width: 100%;
   height: auto;
-  object-fit: fill;
+  object-fit: contain;
 }
 
 .product-details {
